@@ -1,17 +1,7 @@
-# Inflation-et-pouvoir-d-achat-dans-la-zone-CEMAC-2011-2024-
-Excellent 👌
-Tu veux un **rapport analytique** basé sur ton étude de l’inflation dans la zone **CEMAC (2011–2024)** — pour servir à la **décision économique**, à la **recherche**, ou à l’**éducation**.
 
-Voici une **proposition de structure complète et argumentée** que tu pourras directement intégrer dans ton fichier `.Rmd` ou ton article.
-
----
-
-## 🧭 **Titre du rapport**
-
-**Inflation et pouvoir d’achat dans la zone CEMAC (2011–2024)**
+## Inflation et pouvoir d’achat dans la zone CEMAC (2011–2024)
 *Analyse exploratoire à partir des données de la Banque mondiale*
 
----
 
 ## 1️⃣ **Introduction**
 
@@ -21,7 +11,6 @@ L’objectif est de comprendre les tendances de l’inflation, d’évaluer les 
 **Pays étudiés :** Cameroun, Gabon, Congo, Tchad, République Centrafricaine, Guinée Équatoriale.
 **Source :** *World Development Indicators – Banque mondiale (Inflation, consumer prices (%))*.
 
----
 
 ## 2️⃣ **Méthodologie**
 
@@ -35,7 +24,6 @@ L’objectif est de comprendre les tendances de l’inflation, d’évaluer les 
   * Calcul des statistiques descriptives (moyenne, médiane, min, max).
   * Visualisation des tendances temporelles et comparaisons inter-pays.
 
----
 
 ## 3️⃣ **Résultats descriptifs**
 
@@ -61,7 +49,6 @@ On observe :
 * Une relative stabilité au Cameroun et au Gabon.
 * Des variations erratiques en Guinée Équatoriale, probablement liées aux chocs pétroliers.
 
----
 
 ### 3.3 Comparaison des moyennes d’inflation
 
@@ -75,7 +62,6 @@ Cette comparaison met en évidence :
 * Un **Tchad** plus exposé à l’instabilité macroéconomique.
 * Une **RCA** aux niveaux d’inflation les plus volatils.
 
----
 
 ## 4️⃣ **Interprétation et implications**
 
@@ -84,7 +70,6 @@ Cette comparaison met en évidence :
 * La convergence des politiques monétaires dans la CEMAC reste incomplète.
 * L’impact sur le **pouvoir d’achat** demeure contrasté : le niveau de revenu réel a davantage chuté dans les pays à inflation élevée.
 
----
 
 ## 5️⃣ **Recommandations**
 
@@ -93,13 +78,10 @@ Cette comparaison met en évidence :
 3. **Soutenir la production locale** pour limiter la transmission de l’inflation importée.
 4. **Améliorer la collecte et la diffusion de données économiques** pour une prise de décision fondée sur l’évidence.
 
----
-
 ## 6️⃣ **Conclusion**
 
 Entre 2011 et 2024, la CEMAC a connu des niveaux d’inflation hétérogènes, reflétant la vulnérabilité structurelle de ses économies.
 L’analyse met en évidence la nécessité de renforcer la coordination des politiques économiques pour préserver le pouvoir d’achat et assurer la stabilité monétaire dans la sous-région.
 
----
 
 
